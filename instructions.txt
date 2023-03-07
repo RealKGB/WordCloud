@@ -1,0 +1,3 @@
+Placing text: Copy and paste it into input.txt. Do not edit its contents.
+Adding words to the filter: Place each word to be filtered on a newline.
+Adding fonts: Place each font name on a newline, if the name has a space replace that space with a 0 - so 'Comic Sans MS' would become 'Comic0Sans0MS'.
